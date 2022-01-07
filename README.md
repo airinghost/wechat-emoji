@@ -9,13 +9,15 @@ Here are WeChat built-in emojis updated in 2021 with higher resolution.
 
 **Data Source:**
 
-- [WeChat Official Accounts Platform](https://mp.weixin.qq.com/) 
+- [WeChat Official Accounts Platform](https://mp.weixin.qq.com/) (access 22-01-05)
 
-- [Emojipedia](https://emojipedia.org/wechat/) 
+- [Emojipedia](https://emojipedia.org/wechat/) (access 22-01-05)
 
 **Tool for Compression:**
 
-- [TinyPNG](https://tinypng.com/) 
+- [TinyPNG](https://tinypng.com/) (access 22-01-05)
+
+- [cwebp](https://developers.google.com/speed/webp/docs/cwebp) (v1.2.2-rc1)
 
 ***
 
