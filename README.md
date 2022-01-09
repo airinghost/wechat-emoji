@@ -21,6 +21,8 @@ Here are WeChat built-in emojis updated in 2021 with higher resolution.
 
 - [cwebp](https://developers.google.com/speed/webp/docs/cwebp) (v1.2.2-rc1)
 
+- [limitPNG](https://github.com/nullice/limitPNG) (beta4 x64)
+
 ***
 
 [wechat-emoticons](https://github.com/qiuyinghua/wechat-emoticons)
