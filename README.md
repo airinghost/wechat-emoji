@@ -35,13 +35,13 @@ Here are WeChat built-in emojis updated in 2021 with higher resolution.
 
 上面这个网站收集了2015第4版及2020新增的QQ表情（动态 GIF）。
 
+*** 
+
 下面还有其他一些链接，记录于此，方便查阅：
 
 https://github.com/qiphon/wechat-emoji
 
 https://github.com/coderhaoxin/wechat-emoji
-
-https://github.com/qiphon/wechat-emoji
 
 https://github.com/deepkolos/wechat-emoji
 
