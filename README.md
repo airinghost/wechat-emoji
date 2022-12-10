@@ -43,8 +43,6 @@ Here are WeChat built-in emojis updated in 2021 with higher resolution.
 
 https://github.com/qiphon/wechat-emoji
 
-https://github.com/coderhaoxin/wechat-emoji
-
 https://github.com/deepkolos/wechat-emoji
 
 https://github.com/li-zyang/wx-emoji
